@@ -1,0 +1,10 @@
+<chassis.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.69014 -0.000002 -4.2269</min>
+    <max>1.69014 1.37777 4.16313</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/russian/R135_T_103/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
