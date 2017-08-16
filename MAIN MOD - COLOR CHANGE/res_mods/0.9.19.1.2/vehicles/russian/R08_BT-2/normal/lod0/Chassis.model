@@ -1,0 +1,10 @@
+<chassis.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.12541 -0.000754423 -2.71462</min>
+    <max>1.12541 0.957922 2.72602</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/russian/R08_BT-2/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
