@@ -1,0 +1,10 @@
+<hull.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.62264 -0.816425 -3.40839</min>
+    <max>1.62663 0.775364 3.28639</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/russian/R63_ST_I/crash/lod0/Hull</nodefullVisual>
+</hull.model>

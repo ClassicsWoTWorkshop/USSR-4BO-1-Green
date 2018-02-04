@@ -1,0 +1,11 @@
+<hull.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.67111 -0.539557 -3.67151</min>
+    <max>1.66002 0.775364 3.46592</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/russian/R63_ST_I/normal/lod0/Hull</nodefullVisual>
+  <projAreaCoeff>	1	</projAreaCoeff>
+</hull.model>
